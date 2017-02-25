@@ -6,8 +6,8 @@
     "reactiveproperty",
     "rxjs"
   ],
-  "main": "./dist/es5/reactiveproperty.js",
-  "types": "./dist/es5/reactiveproperty.d.ts",
+  "main": "./dist/es2015/index.js",
+  "types": "./dist/es2015/index.d.ts",
   "files": [
     "dist"
   ],
