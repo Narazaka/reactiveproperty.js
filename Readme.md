@@ -24,6 +24,7 @@ obj.myProperty.value = "bar";
 
 ## See also
 
+- [observable-collection](https://github.com/Narazaka/observable-collection.js)
 - [reactiveproperty-rxjs](https://github.com/paveldk/reactiveproperty-rxjs)
 
 ## License
