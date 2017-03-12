@@ -1,7 +1,7 @@
 import {Subject} from "rxjs";
 import {Subscribable} from "rxjs/Observable";
 import {PartialObserver} from "rxjs/Observer";
-import {ISubscription, Subscription} from "rxjs/subscription";
+import {ISubscription, Subscription} from "rxjs/Subscription";
 import {toSubscriber} from "rxjs/util/toSubscriber";
 
 export interface IReactiveProperty<T> extends Subscribable<T>, ISubscription {

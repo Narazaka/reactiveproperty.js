@@ -1,19 +1,20 @@
 {
   "compileOnSave": true,
   "compilerOptions": {
-      "module": "commonjs",
-      "target": "es2015",
-      "declaration": true,
-      "noImplicitAny": true,
-      "noImplicitThis": true,
-      "noImplicitReturns": true,
-      "noImplicitUseStrict": true,
-      "noUnusedLocals": true,
-      "noUnusedParameters": true,
-      "outDir": "dist/es2015",
-      "preserveConstEnums": true,
-      "sourceMap": true,
-      "strictNullChecks": true
+    "module": "commonjs",
+    "target": "es2015",
+    "declaration": true,
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noImplicitUseStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "outDir": "dist/es2015",
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "strictNullChecks": true
   },
   "include": [
     "src"
