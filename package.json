@@ -1,6 +1,6 @@
 {
   "name": "reactiveproperty",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ReactiveProperty for RxJS",
   "keywords": [
     "reactiveproperty",
